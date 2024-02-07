@@ -1,0 +1,44 @@
+body {
+	background-color: white;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+.head {
+	font-size: 30px;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 20%;
+}
+
+.gray {
+	opacity: 0.7;
+}
+
+div {
+	display: inline;
+}
+
+.p {
+	display: inline;
+}
+
+.uncentered {
+	text-align: left;
+}
+
+.centered {
+	text-align: center;
+}
+
+.kachow {
+	padding-left: 260px;
+}
+
+.kachow2 {
+	padding-left: 300px;
+}
